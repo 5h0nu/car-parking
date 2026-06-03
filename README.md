@@ -65,4 +65,11 @@ Then navigate to: **[http://localhost:8000/login.php](http://localhost:8000/logi
 ---
 
 ## 📄 License
-This project is open-source and free to distribute.
+This project is open-source and licensed under the [MIT License](LICENSE).
+
+---
+
+## 📬 Contact & Support
+For queries, issues, or custom adaptations:
+- **Email**: [mdkhasimgs@gmail.com](mailto:mdkhasimgs@gmail.com)
+- **Instagram**: [@5h0nu](https://instagram.com/5h0nu)
