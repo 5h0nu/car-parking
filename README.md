@@ -70,6 +70,8 @@ This project is open-source and licensed under the [MIT License](LICENSE).
 ---
 
 ## 📬 Contact & Support
-For queries, issues, or custom adaptations:
-- **Email**: [mdkhasimgs@gmail.com](mailto:mdkhasimgs@gmail.com)
-- **Instagram**: [@5h0nu](https://instagram.com/5h0nu)
+
+If you need support, have queries, or want to request custom adaptations, feel free to reach out via:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/5h0nu)
+[![Email](https://img.shields.io/badge/Email-mdkhasimgs%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdkhasimgs@gmail.com)
