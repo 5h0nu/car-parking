@@ -104,15 +104,4 @@ $nav_items = [
             </a>
         <?php endforeach; ?>
     </nav>
-
-    <!-- Support Block -->
-    <div class="sidebar-support" style="padding: 20px; border-top: 1px solid rgba(255, 255, 255, 0.05); margin-top: auto;">
-        <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--card-border); border-radius: 12px; padding: 15px; text-align: center;">
-            <span style="display: block; font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; font-weight: 600;">System Support</span>
-            <a href="https://instagram.com/5h0nu" target="_blank" style="padding: 8px 16px; font-size: 12.5px; border-radius: 8px; width: 100%; display: inline-flex; justify-content: center; align-items: center; gap: 6px; text-decoration: none; background: linear-gradient(135deg, #d62976 0%, #fa7e1e 100%); box-shadow: 0 4px 10px rgba(214, 41, 118, 0.3); border: none; font-family: inherit; font-weight: 600; color: #fff; cursor: pointer; transition: all 0.2s;" onmouseover="this.style.transform='translateY(-1px)', this.style.boxShadow='0 6px 14px rgba(214, 41, 118, 0.4)'" onmouseout="this.style.transform='none', this.style.boxShadow='0 4px 10px rgba(214, 41, 118, 0.3)'">
-                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display: block;"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
-                Contact @5h0nu
-            </a>
-        </div>
-    </div>
 </div>

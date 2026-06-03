@@ -735,9 +735,4 @@ body::after {
         padding: 24px;
         height: auto;
     }
-    
-    /* Hide sidebar support on mobile screen layout */
-    .sidebar-support {
-        display: none !important;
-    }
 }
